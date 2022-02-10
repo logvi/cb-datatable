@@ -24,7 +24,7 @@
     "flow-bin": "^0.80.0",
     "fs-extra": "^3.0.1",
     "jest": "^23.6.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "pre-commit": "^1.2.2",
     "react-test-renderer": "^15.6.1",
     "rimraf": "^2.6.1",
